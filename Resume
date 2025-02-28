@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Rutvi's Resume</title>
+</head>
+<body>
+  <h1>Welcome to Rutvi's Resume</h1>
+  <p>Click below to download the resume:</p>
+  <a href="Rutvi%20Resume%20DS.pdf" target="_blank">Download My Resume (PDF)</a>
+</body>
+</html>
